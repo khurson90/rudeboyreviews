@@ -1,0 +1,24 @@
+body {
+    font-family: fantasy;
+    background-image: url("https://imgs.search.brave.com/9O9gEEYyLroq8WIkqXhWTBgeK2MonIvz5Yfljslk2kI/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly93d3cu/bW9ydGFsa29tYmF0/d2FyZWhvdXNlLmNv/bS9ta21vYmlsZS9i/YWNrZ3JvdW5kcy9x/dWVzdC9wb3J0YWwu/cG5n");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 5rem;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
+
+td {
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+}
+
+td:hover {
+    border-color: rgb(34, 240, 15);
+  }
